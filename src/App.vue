@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <router-view/>
-    demo3
-    demo2
+    demo31
+    demo22
   </div>
 </template>
 
